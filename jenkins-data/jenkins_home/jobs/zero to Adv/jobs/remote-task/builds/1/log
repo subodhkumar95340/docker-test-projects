@@ -1,0 +1,15 @@
+Started by user [8mha:////4FoFuk5ghiACukqcPdleFHyAE4A+P/K0Ad1k2xImKMN2AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKk/JQMAJEvZQ3BAAAA[0msubodh
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/zero to Adv/remote-task
+[SSH] script:
+
+NAME=subodh
+
+echo "Hello $NAME current date and time is $(date)" > /tmp/remote_file
+
+[SSH] executing...
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS

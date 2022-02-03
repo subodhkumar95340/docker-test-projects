@@ -1,0 +1,21 @@
+Started by user [8mha:////4FoFuk5ghiACukqcPdleFHyAE4A+P/K0Ad1k2xImKMN2AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKk/JQMAJEvZQ3BAAAA[0msubodh
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/zero to Adv/Backup to s3
+[SSH] script:
+AWS_SECRET_KEY=**********
+MYSQL_PASSWORD=**********
+AWS_BUCKET_NAME="jenkinsmysqlbackup01"
+DATABBASE_NAME="testdb"
+DB_HOST="remote_host"
+
+/tmp/script.sh  $DB_HOST  $MYSQL_PASSWORD $DATABBASE_NAME $AWS_SECRET_KEY $AWS_BUCKET_NAME
+
+
+[SSH] executing...
+bash: line 6: /tmp/script.sh: Permission denied
+
+[SSH] completed
+[SSH] exit-status: 126
+
+Build step 'Execute shell script on remote host using ssh' marked build as failure
+Finished: FAILURE

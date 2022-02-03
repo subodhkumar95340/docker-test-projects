@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@408.vd726a_1130320">
+  <defaultSuffix></defaultSuffix>
+  <authentication>
+    <username>AKIAWDDPVCY7ZM4V6UIL</username>
+    <password>{AQAAABAAAAAwSTHX6MKaqRTzI5cMLPuSfv9nHwpjTMEvU9MgciMhJ4WFK9YUmIXSftzbGupJ1Yvr936fRr5NYLGJesIU11RUXA==}</password>
+  </authentication>
+  <replyToAddress>subodhkumarshah99050@gmail.com</replyToAddress>
+  <smtpHost>email-smtp.ap-south-1.amazonaws.com</smtpHost>
+  <useSsl>true</useSsl>
+  <useTls>false</useTls>
+  <smtpPort>465</smtpPort>
+  <charset>UTF-8</charset>
+</hudson.tasks.Mailer_-DescriptorImpl>

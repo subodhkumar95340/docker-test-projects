@@ -1,0 +1,536 @@
+Started at Sun Jan 30 20:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Sun Jan 30 20:09:45 UTC 2022. 4ms
+Started at Sun Jan 30 21:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Sun Jan 30 21:09:45 UTC 2022. 0ms
+Started at Sun Jan 30 22:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Sun Jan 30 22:09:45 UTC 2022. 1ms
+Started at Sun Jan 30 23:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Sun Jan 30 23:09:45 UTC 2022. 5ms
+Started at Mon Jan 31 00:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 00:09:45 UTC 2022. 1ms
+Started at Mon Jan 31 01:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 01:09:45 UTC 2022. 1ms
+Started at Mon Jan 31 02:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 02:09:45 UTC 2022. 5ms
+Started at Mon Jan 31 03:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 03:09:45 UTC 2022. 2ms
+Started at Mon Jan 31 04:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 04:09:45 UTC 2022. 0ms
+Started at Mon Jan 31 05:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 05:09:45 UTC 2022. 1ms
+Started at Mon Jan 31 06:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 06:09:45 UTC 2022. 1ms
+Started at Mon Jan 31 07:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 07:09:45 UTC 2022. 8ms
+Started at Mon Jan 31 08:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/credentials
+Offering pipeline/credentials to Project Build Discarder
+Processing pipeline/environment_variable
+Offering pipeline/environment_variable to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 08:09:45 UTC 2022. 6ms
+Started at Mon Jan 31 09:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/credentials
+Offering pipeline/credentials to Project Build Discarder
+Processing pipeline/environment_variable
+Offering pipeline/environment_variable to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 09:09:45 UTC 2022. 2ms
+Started at Mon Jan 31 10:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/credentials
+Offering pipeline/credentials to Project Build Discarder
+Processing pipeline/environment_variable
+Offering pipeline/environment_variable to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/post_action
+Offering pipeline/post_action to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 10:09:45 UTC 2022. 9ms
+Started at Mon Jan 31 11:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/credentials
+Offering pipeline/credentials to Project Build Discarder
+Processing pipeline/environment_variable
+Offering pipeline/environment_variable to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/post_action
+Offering pipeline/post_action to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 11:09:45 UTC 2022. 2ms
+Started at Mon Jan 31 12:09:45 UTC 2022
+Processing Maven_Job
+Offering Maven_Job to Project Build Discarder
+Processing zero to Adv/Backup to s3
+Offering zero to Adv/Backup to s3 to Project Build Discarder
+Processing zero to Adv/First job
+Offering zero to Adv/First job to Project Build Discarder
+Processing zero to Adv/ansible-test
+Offering zero to Adv/ansible-test to Project Build Discarder
+Processing zero to Adv/ansible-test02
+Offering zero to Adv/ansible-test02 to Project Build Discarder
+Processing zero to Adv/dsl_jo01
+Offering zero to Adv/dsl_jo01 to Project Build Discarder
+Processing zero to Adv/dsl_job
+Offering zero to Adv/dsl_job to Project Build Discarder
+Processing zero to Adv/dsl_job02
+Offering zero to Adv/dsl_job02 to Project Build Discarder
+Processing zero to Adv/dsl_plugin
+Offering zero to Adv/dsl_plugin to Project Build Discarder
+Processing zero to Adv/mavan-job
+Offering zero to Adv/mavan-job to Project Build Discarder
+Processing zero to Adv/remote-task
+Offering zero to Adv/remote-task to Project Build Discarder
+Processing pipeline/credentials
+Offering pipeline/credentials to Project Build Discarder
+Processing pipeline/environment_variable
+Offering pipeline/environment_variable to Project Build Discarder
+Processing pipeline/first_pipeline
+Offering pipeline/first_pipeline to Project Build Discarder
+Processing pipeline/multiSteps
+Offering pipeline/multiSteps to Project Build Discarder
+Processing pipeline/post_action
+Offering pipeline/post_action to Project Build Discarder
+Processing pipeline/Timeouts
+Offering pipeline/Timeouts to Project Build Discarder
+Finished at Mon Jan 31 12:09:45 UTC 2022. 10ms

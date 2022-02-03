@@ -1,0 +1,19 @@
+Started by user [8mha:////4FoFuk5ghiACukqcPdleFHyAE4A+P/K0Ad1k2xImKMN2AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKk/JQMAJEvZQ3BAAAA[0msubodh
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/zero to Adv/dsl_plugin
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/zero to Adv/dsl_plugin/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/jenkinsci/job-dsl-plugin.git # timeout=10
+Fetching upstream changes from https://github.com/jenkinsci/job-dsl-plugin.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/jenkinsci/job-dsl-plugin.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 6eae93a1d5af22513dc697b32a71f9048f17b284 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 6eae93a1d5af22513dc697b32a71f9048f17b284 # timeout=10
+Commit message: "Bump version post-release"
+ > git rev-list --no-walk 6eae93a1d5af22513dc697b32a71f9048f17b284 # timeout=10
+Finished: SUCCESS

@@ -1,0 +1,12 @@
+services:
+   nginxphp:
+      container_name: nginxphp
+      image: nginxphp
+      build:
+         context: nginx-image
+      ports:
+         - "80:80"
+      networks:
+         - net
+networks:
+   net:

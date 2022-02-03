@@ -1,0 +1,110 @@
+Started by user [8mha:////4FoFuk5ghiACukqcPdleFHyAE4A+P/K0Ad1k2xImKMN2AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKk/JQMAJEvZQ3BAAAA[0msubodh
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/zero to Adv/mavan-job
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/zero to Adv/mavan-job/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/jenkins-docs/simple-java-maven-app.git # timeout=10
+Fetching upstream changes from https://github.com/jenkins-docs/simple-java-maven-app.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/jenkins-docs/simple-java-maven-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision d429203aa304cba0a1beb7fda8219d916c1e2fce (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f d429203aa304cba0a1beb7fda8219d916c1e2fce # timeout=10
+Commit message: "Merge pull request #264 from MarkEWaite/use-latest-compiler-plugin"
+ > git rev-list --no-walk d429203aa304cba0a1beb7fda8219d916c1e2fce # timeout=10
+[mavan-job] $ /var/jenkins_home/tools/hudson.tasks.Maven_MavenInstallation/jenkin_maven/bin/mvn -B -DskipTests clean package
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.mycompany.app:my-app >----------------------
+[INFO] Building my-app 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ my-app ---
+[INFO] Deleting /var/jenkins_home/workspace/zero to Adv/mavan-job/target
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M3:enforce (enforce-maven) @ my-app ---
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ my-app ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/jenkins_home/workspace/zero to Adv/mavan-job/src/main/resources
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ my-app ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /var/jenkins_home/workspace/zero to Adv/mavan-job/target/classes
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ my-app ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/jenkins_home/workspace/zero to Adv/mavan-job/src/test/resources
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ my-app ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /var/jenkins_home/workspace/zero to Adv/mavan-job/target/test-classes
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ my-app ---
+[INFO] Tests are skipped.
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ my-app ---
+[INFO] Building jar: /var/jenkins_home/workspace/zero to Adv/mavan-job/target/my-app-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.625 s
+[INFO] Finished at: 2022-01-28T05:12:11Z
+[INFO] ------------------------------------------------------------------------
+[mavan-job] $ /var/jenkins_home/tools/hudson.tasks.Maven_MavenInstallation/jenkin_maven/bin/mvn test
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.mycompany.app:my-app >----------------------
+[INFO] Building my-app 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-enforcer-plugin:3.0.0-M3:enforce (enforce-maven) @ my-app ---
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ my-app ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/jenkins_home/workspace/zero to Adv/mavan-job/src/main/resources
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ my-app ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ my-app ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/jenkins_home/workspace/zero to Adv/mavan-job/src/test/resources
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ my-app ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4HgHCzwnYJnHnSSt+B/xVZV5iiCV1l6Nx1eMIBJ/W4QLAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ my-app ---
+[INFO] Surefire report directory: /var/jenkins_home/workspace/zero to Adv/mavan-job/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.mycompany.app.AppTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.21 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.701 s
+[INFO] Finished at: 2022-01-28T05:12:18Z
+[INFO] ------------------------------------------------------------------------
+[mavan-job] $ /bin/sh -xe /tmp/jenkins14078828026076781702.sh
++ echo *******************
+*******************
++ echo Deploying JAR
+Deploying JAR
++ echo *******************
+*******************
++ java -jar /var/jenkins_home/workspace/zero to Adv/mavan-job/target/my-app-1.0-SNAPSHOT.jar
+Error: Unable to access jarfile /var/jenkins_home/workspace/zero
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

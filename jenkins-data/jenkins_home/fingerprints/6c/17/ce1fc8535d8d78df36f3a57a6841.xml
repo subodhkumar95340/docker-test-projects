@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-01-24 13:51:29.159 UTC</timestamp>
+  <md5sum>6c17ce1fc8535d8d78df36f3a57a6841</md5sum>
+  <fileName>Credential id=AWS_SECRET_KEY name=AWS_SECRET_KEY</fileName>
+  <usages>
+    <entry>
+      <string>zero to Adv/Backup to s3</string>
+      <ranges>1-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
